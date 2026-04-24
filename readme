@@ -27,7 +27,9 @@ The general workflow is:
 │
 ├── 1Q/
 │   ├── <equations-of-motion script>
-│   └── <Fourier-transform and plotting script>
+│   ├── <Fourier-transform and plotting script>
+│   └── polariton_bleach/
+│       └── Equations-of-motion code including the polariton bleach term
 │
 └── DQC/
     ├── <equations-of-motion script>
