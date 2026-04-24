@@ -15,15 +15,13 @@ The general workflow is:
 3. Plot the simulated spectra.
 4. For 1Q: Compare the simulated spectra with the experimental data in the `data/` folder.
 
----
-
-## Repository structure
-
 ```text
 .
 ├── data/
 │   ├── *.csv
+│   │   └── Long waiting-time experimental spectra measured at different excitation intensities
 │   └── specdat_yxavg_fwhm_03#02.mat
+│       └── Early-time complex 2DIR dynamics from -0.3 to 9.9 ps
 │
 ├── 1Q/
 │   ├── <equations-of-motion script>
