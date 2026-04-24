@@ -15,6 +15,8 @@ The general workflow is:
 3. Plot the simulated spectra.
 4. For 1Q: Compare the simulated spectra with the experimental data in the `data/` folder.
 
+## Repository structure
+
 ```text
 .
 ├── data/
