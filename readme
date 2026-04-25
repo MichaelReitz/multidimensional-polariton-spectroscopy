@@ -6,7 +6,7 @@ This repository contains code and supporting files used for the manuscript:
 
 **Authors:** Michael Reitz, Harsh Bhakta, Wei Xiong, and Joel Yuen-Zhou.
 
-Experimental 2D infrared spectroscopy data and simulation code for computing single-quantum and double-quantum coherence spectra of molecular polaritons. The code is organized into separate workflows for single-quantum (`1Q`) and double-quantum coherence (`DQC`) calculations.
+Experimental 2D infrared spectroscopy data and simulation code for computing single-quantum and double-quantum coherence spectra of molecular polaritons. The code is organized into separate workflows for single-quantum (`1Q`) and double-quantum coherence (`2QC`) calculations.
 The general workflow is:
 
 1. Solve the equations of motion up to third order.
@@ -30,6 +30,6 @@ The general workflow is:
 │   └── polariton_bleach/
 │       └── Equations-of-motion code including the polariton bleach term
 │
-└── DQC/
+└── 2qc/
     ├── <equations-of-motion script>
     └── <Fourier-transform and plotting script>
