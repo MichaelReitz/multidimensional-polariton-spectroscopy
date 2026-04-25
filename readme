@@ -6,7 +6,7 @@ This repository contains code and supporting files used for the manuscript:
 
 **Authors:** Michael Reitz, Harsh Bhakta, Wei Xiong, and Joel Yuen-Zhou.
 
-The repository contains experimental 2D infrared spectroscopy data and simulation code for computing single-quantum and double-quantum coherence spectra. The code is organized into separate workflows for single-quantum (`1Q`) and double-quantum coherence (`DQC`) calculations.
+The repository contains experimental 2D infrared spectroscopy data and simulation code for computing single-quantum and double-quantum coherence spectra of molecular polaritons. The code is organized into separate workflows for single-quantum (`1Q`) and double-quantum coherence (`DQC`) calculations.
 
 The general workflow is:
 
